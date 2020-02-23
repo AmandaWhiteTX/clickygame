@@ -4,4 +4,3 @@ This game requires the user to click each image while not clicking the same imag
 
 Upon losing he screen shakes to signify that the game is over while tacking their current score and showing their high score.
 
-![game](./public/images/clicky.gif)
