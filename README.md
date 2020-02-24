@@ -1,4 +1,4 @@
-#Click Game
+#Clicky Game
 
 This game requires the user to click each image while not clicking the same image twice. If the user clicks an image a second time they lose and their score resets. 
 
